@@ -1,0 +1,6 @@
+BraTS_2020/
+data/
+ISIC_2016/
+ISIC_results_*/
+ISIC_sampling_*/
+__pycache__/
